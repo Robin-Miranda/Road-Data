@@ -1,0 +1,329 @@
+{
+  "districts": {
+    "rows": 31
+  },
+  "towns": {
+    "raw_rows": 24808,
+    "rows": 24807,
+    "dropped_outside_polygon": 0,
+    "duplicate_ids": 0,
+    "duplicate_name_coord": 1,
+    "missing": {
+      "town_id": 0,
+      "name": 0,
+      "subtype": 0,
+      "settlement_class": 372,
+      "region": 0,
+      "population": 24478,
+      "parent_division_id": 0,
+      "wikidata": 24466,
+      "lon": 0,
+      "lat": 0,
+      "district": 0
+    },
+    "settlement_class_counts": {
+      "village": 21356,
+      "hamlet": 2789,
+      "NaN": 372,
+      "town": 266,
+      "city": 24
+    }
+  },
+  "ocm": {
+    "india_rows": 1872,
+    "karnataka_rows_by_polygon": 379,
+    "state_field_says_karnataka_but_outside_polygon": 1,
+    "inside_polygon_but_state_field_not_karnataka": 14,
+    "duplicate_ids": 0,
+    "near_duplicates_50m": 8,
+    "missing": {
+      "ocm_id": 0,
+      "title": 0,
+      "town": 2,
+      "state_raw": 3,
+      "postcode": 1,
+      "lat": 0,
+      "lon": 0,
+      "operator": 1,
+      "usage_type": 0,
+      "status": 0,
+      "number_of_points": 0,
+      "n_connections": 0,
+      "max_power_kw": 1,
+      "has_dc": 0,
+      "has_ccs2": 0,
+      "data_provider": 0,
+      "licence": 0,
+      "date_created": 0,
+      "date_last_verified": 0,
+      "date_last_status_update": 0,
+      "district": 0,
+      "power_outlier": 0,
+      "near_duplicate_50m": 0,
+      "bus_capable_dc_ge_60kw": 0
+    },
+    "status_counts": {
+      "Operational": 376,
+      "Temporarily Unavailable": 2,
+      "Not Operational": 1
+    },
+    "max_power_kw_describe": {
+      "count": 378.0,
+      "mean": 52.9,
+      "std": 36.9,
+      "min": 2.0,
+      "25%": 30.0,
+      "50%": 60.0,
+      "75%": 60.0,
+      "max": 240.0
+    },
+    "power_outliers_gt_500kw": 0,
+    "dc_ge_60kw_sites": 192,
+    "last_verified_year_counts": {
+      "2018": 11,
+      "2020": 1,
+      "2021": 2,
+      "2022": 1,
+      "2024": 4,
+      "2025": 340,
+      "2026": 20
+    },
+    "licence_counts": {
+      "Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)": 379
+    }
+  },
+  "places": {
+    "bus_facility_class_counts": {
+      "bus_stop": 1589,
+      "terminal_or_depot": 404,
+      "unclassified": 90,
+      "likely_misclassified": 17,
+      "private_operator_office": 13,
+      "metro_station": 2
+    },
+    "raw_rows_matching_types": 11619,
+    "rows_in_karnataka": 5458,
+    "by_type": {
+      "fuel_station": 3291,
+      "bus_station": 2115,
+      "ev_charging_station": 51,
+      "rest_stop": 1
+    },
+    "missing": {
+      "place_id": 0,
+      "name": 0,
+      "site_type": 0,
+      "taxonomy_primary": 0,
+      "confidence": 0,
+      "low_confidence": 0,
+      "operating_status": 5458,
+      "bus_facility_class": 3343,
+      "near_duplicate_50m": 0,
+      "locality": 5,
+      "district": 0,
+      "source_datasets": 0,
+      "lon": 0,
+      "lat": 0
+    },
+    "duplicate_ids": 0,
+    "near_duplicates_50m_by_type": {
+      "bus_station": 19,
+      "ev_charging_station": 0,
+      "fuel_station": 105,
+      "rest_stop": 0
+    },
+    "low_confidence_lt_0_5_by_type": {
+      "bus_station": 52,
+      "ev_charging_station": 0,
+      "fuel_station": 258,
+      "rest_stop": 0
+    },
+    "confidence_describe": {
+      "count": 5458.0,
+      "mean": 0.747,
+      "std": 0.199,
+      "min": 0.182,
+      "25%": 0.559,
+      "50%": 0.779,
+      "75%": 0.954,
+      "max": 1.0
+    },
+    "bus_stations_by_district": {
+      "Bengaluru Urban": 435,
+      "Mysuru District": 153,
+      "Belagavi": 122,
+      "Tumakuru": 112,
+      "Mandya": 93,
+      "Haveri": 82,
+      "Bengaluru North": 78,
+      "Chikkaballapura": 73,
+      "Dakshina Kannada": 65,
+      "Hassan": 65,
+      "Bidar": 63,
+      "Kolar": 63,
+      "Kalaburagi": 62,
+      "Davanagere": 61,
+      "Bagalkote": 58,
+      "Koppal": 55,
+      "Vijayapura": 53,
+      "Shimoga": 50,
+      "Bengaluru South": 50,
+      "Raichur": 49,
+      "Dharwad": 43,
+      "Vijayanagara": 37,
+      "Uttara Kannada": 30,
+      "Yadgir": 28,
+      "Chikkamagaluru": 24,
+      "Udupi": 23,
+      "Gadag": 21,
+      "Chitradurga": 21,
+      "Ballari": 20,
+      "Chamarajanagar": 14,
+      "Kodagu": 12
+    }
+  },
+  "roads": {
+    "raw_rows_bbox": 265162,
+    "rows_intersecting_karnataka": 116389,
+    "duplicate_ids": 0,
+    "zero_length_lt_1m": 9,
+    "km_by_class": {
+      "motorway": 478.0,
+      "primary": 20696.0,
+      "secondary": 15656.0,
+      "trunk": 12316.0
+    },
+    "missing_name_share": 0.602,
+    "missing_route_ref_share": 0.509,
+    "missing_speed_share": 0.895,
+    "missing_surface_share": 0.619,
+    "segment_length_m_describe": {
+      "count": 116389.0,
+      "mean": 422.3,
+      "std": 1397.5,
+      "min": 0.2,
+      "25%": 36.3,
+      "50%": 98.5,
+      "75%": 343.0,
+      "max": 218903.9
+    },
+    "graph_nodes": 161526,
+    "graph_edges": 169153,
+    "components": 173,
+    "giant_component_node_share": 0.99,
+    "km_in_giant_component_share": 0.974
+  },
+  "routing_smoke_test": [
+    {
+      "from": "Bengaluru",
+      "to": "Mysuru",
+      "straight_line_km": 125.9,
+      "network_km": 140.4,
+      "circuity": 1.11,
+      "snap_from_m": 61,
+      "snap_to_m": 333
+    },
+    {
+      "from": "Bengaluru",
+      "to": "Shivamogga",
+      "straight_line_km": 242.5,
+      "network_km": 274.8,
+      "circuity": 1.13,
+      "snap_from_m": 61,
+      "snap_to_m": 168
+    },
+    {
+      "from": "Bengaluru",
+      "to": "Davanagere",
+      "straight_line_km": 244.8,
+      "network_km": 259.6,
+      "circuity": 1.06,
+      "snap_from_m": 61,
+      "snap_to_m": 69
+    },
+    {
+      "from": "Bengaluru",
+      "to": "Madikeri",
+      "straight_line_km": 210.1,
+      "network_km": 254.5,
+      "circuity": 1.21,
+      "snap_from_m": 61,
+      "snap_to_m": 146
+    },
+    {
+      "from": "Bengaluru",
+      "to": "Chikkamagaluru",
+      "straight_line_km": 200.3,
+      "network_km": 231.3,
+      "circuity": 1.16,
+      "snap_from_m": 61,
+      "snap_to_m": 43
+    },
+    {
+      "from": "Bengaluru",
+      "to": "Hubballi",
+      "straight_line_km": 373.7,
+      "network_km": 404.0,
+      "circuity": 1.08,
+      "snap_from_m": 61,
+      "snap_to_m": 81
+    },
+    {
+      "from": "Bengaluru",
+      "to": "Mangaluru",
+      "straight_line_km": 298.0,
+      "network_km": 344.6,
+      "circuity": 1.16,
+      "snap_from_m": 61,
+      "snap_to_m": 84
+    },
+    {
+      "from": "Bengaluru",
+      "to": "Belagavi",
+      "straight_line_km": 461.3,
+      "network_km": 500.0,
+      "circuity": 1.08,
+      "snap_from_m": 61,
+      "snap_to_m": 57
+    },
+    {
+      "from": "Bengaluru",
+      "to": "Kalaburagi",
+      "straight_line_km": 490.9,
+      "network_km": 607.3,
+      "circuity": 1.24,
+      "snap_from_m": 61,
+      "snap_to_m": 169
+    }
+  ],
+  "ksrtc_divisions": {
+    "divisions": 16,
+    "routes_total": 5471,
+    "route_km_total": 426382,
+    "avg_route_km_corporation": 77.93,
+    "division_sums_match_total": true,
+    "max_abs_error_avg_route_km": 0.005,
+    "avg_route_km_range": [
+      18.69,
+      243.01
+    ]
+  },
+  "mop_evcs": {
+    "states_uts": 36,
+    "india_total": 29277,
+    "karnataka": 6097,
+    "ocm_karnataka_sites": 379,
+    "ocm_coverage_of_mop_count": 0.062
+  },
+  "parameters": {
+    "rows": 28,
+    "by_status": {
+      "secondary_report": 10,
+      "verified_primary": 8,
+      "official_doc_not_opened": 3,
+      "gap": 3,
+      "unverified_secondary": 2,
+      "gap_assumption_needed": 2
+    }
+  }
+}

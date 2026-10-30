@@ -1,0 +1,586 @@
+ocm_id,connection_type,current_type,power_kw,amps,voltage,quantity,status
+308940,Type 2 (Tethered Connector) ,AC (Single-Phase),7.0,32.0,240.0,1.0,Operational
+308657,CCS (Type 2),DC,24.0,,,1.0,Operational
+309439,CCS (Type 2),DC,30.0,,,2.0,Operational
+309439,CCS (Type 2),DC,30.0,,,2.0,Operational
+309333,CCS (Type 2),DC,25.0,,,1.0,Operational
+309347,CCS (Type 2),DC,50.0,,,1.0,Operational
+309347,Type 2 (Tethered Connector) ,AC (Three-Phase),43.0,,,1.0,Operational
+308643,CCS (Type 2),DC,200.0,,,2.0,Operational
+308643,CCS (Type 2),DC,30.0,,,2.0,Operational
+308643,CCS (Type 2),DC,160.0,,,4.0,Operational
+311407,CCS (Type 2),DC,120.0,,,2.0,Operational
+311407,CCS (Type 2),DC,120.0,,,2.0,Operational
+309312,CCS (Type 2),DC,50.0,,,1.0,Operational
+308781,CCS (Type 2),DC,60.0,,,2.0,Operational
+308779,CCS (Type 2),DC,60.0,,,2.0,Operational
+309343,CCS (Type 2),DC,25.0,,,1.0,Operational
+309343,CHAdeMO,DC,25.0,,,1.0,Operational
+309231,Type 2 (Tethered Connector) ,AC (Three-Phase),7.0,,,1.0,Operational
+309231,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308875,CCS (Type 2),DC,240.0,,,2.0,Operational
+308875,CCS (Type 2),DC,240.0,,,2.0,Operational
+309153,CCS (Type 2),DC,60.0,,,2.0,Operational
+309348,CCS (Type 2),DC,150.0,,,1.0,Operational
+308799,CCS (Type 2),DC,25.0,,,1.0,Operational
+308799,CHAdeMO,DC,25.0,,,1.0,Operational
+308996,CCS (Type 2),DC,60.0,,,2.0,Operational
+309067,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,32.0,230.0,1.0,Operational
+297621,Unknown,AC (Three-Phase),100.0,10.0,450.0,1.0,Operational
+309315,CCS (Type 2),DC,60.0,,,2.0,Operational
+308924,CCS (Type 2),DC,60.0,,,2.0,Operational
+309319,CCS (Type 2),DC,25.0,,,2.0,Operational
+308763,CCS (Type 2),DC,60.0,,,2.0,Operational
+309308,CCS (Type 2),DC,25.0,,,1.0,Operational
+309020,CCS (Type 2),DC,30.0,,,1.0,Operational
+309099,CCS (Type 2),DC,30.0,,,2.0,Operational
+309350,CCS (Type 2),DC,50.0,,,2.0,Operational
+308974,CCS (Type 2),DC,60.0,,,2.0,Operational
+309221,CCS (Type 2),DC,60.0,,,2.0,Operational
+309295,CCS (Type 2),DC,30.0,,,1.0,Operational
+309295,Type 2 (Tethered Connector) ,AC (Three-Phase),7.4,,,1.0,Operational
+309320,CCS (Type 2),DC,30.0,,,1.0,Operational
+309320,CCS (Type 2),AC (Three-Phase),7.4,,,2.0,Operational
+309483,CCS (Type 2),DC,30.0,,,1.0,Operational
+308872,CCS (Type 2),DC,60.0,,,2.0,Operational
+484922,CCS (Type 2),DC,180.0,,,2.0,Operational
+484922,CCS (Type 2),DC,180.0,,,2.0,Operational
+309438,CCS (Type 2),DC,60.0,,,2.0,Operational
+485770,CCS (Type 2),DC,30.0,,,1.0,Operational
+309293,CCS (Type 2),DC,60.0,,,2.0,Operational
+309303,CCS (Type 2),DC,60.0,,,2.0,Operational
+308713,CCS (Type 2),DC,30.0,,,1.0,Operational
+308679,CCS (Type 2),DC,75.0,,,4.0,Operational
+308979,CCS (Type 2),DC,60.0,,,1.0,Operational
+309436,CCS (Type 2),DC,30.0,,,2.0,Operational
+301966,CCS (Type 2),DC,60.0,,,1.0,Operational
+308904,CCS (Type 2),DC,120.0,,,2.0,Operational
+308914,CCS (Type 2),DC,120.0,,,2.0,Operational
+173082,CCS (Type 2),DC,22.0,,,2.0,Operational
+308906,CCS (Type 2),DC,120.0,,,2.0,Operational
+309305,CCS (Type 2),DC,25.0,,,1.0,Operational
+309305,CHAdeMO,DC,25.0,,,1.0,Operational
+308922,CCS (Type 2),DC,60.0,,,16.0,Operational
+308922,IEC 60309 3-pin,AC (Single-Phase),3.3,,,39.0,Operational
+308922,GB-T DC - GB/T 20234.3,DC,30.0,,,2.0,Operational
+308922,Type 2 (Tethered Connector) ,AC (Three-Phase),7.0,,,1.0,Operational
+308807,CCS (Type 2),DC,60.0,,,2.0,Operational
+309065,CCS (Type 2),DC,25.0,,,1.0,Operational
+309065,CHAdeMO,DC,25.0,,,1.0,Operational
+311910,CCS (Type 2),DC,24.0,,,1.0,Operational
+311910,Type 2 (Tethered Connector) ,AC (Three-Phase),22.0,,,1.0,Operational
+309356,CCS (Type 2),DC,60.0,,,1.0,Operational
+309149,CCS (Type 2),DC,60.0,,,2.0,Operational
+309149,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,32.0,230.0,1.0,Operational
+308965,CCS (Type 2),DC,30.0,,,1.0,Operational
+309061,CCS (Type 2),DC,60.0,,,2.0,Operational
+309061,Type 2 (Tethered Connector) ,AC (Three-Phase),22.0,,,1.0,Operational
+309061,Type 2 (Tethered Connector) ,AC (Three-Phase),22.0,,,1.0,Operational
+309306,CCS (Type 2),DC,50.0,,,1.0,Operational
+309306,CHAdeMO,DC,50.0,,,1.0,Operational
+103603,Unknown,AC (Single-Phase),3.0,16.0,270.0,2.0,Operational
+309097,CCS (Type 2),DC,60.0,,,2.0,Operational
+309341,CCS (Type 2),DC,60.0,,,2.0,Operational
+308775,CCS (Type 2),DC,24.0,,,1.0,Operational
+308818,CCS (Type 2),DC,60.0,,,2.0,Operational
+309070,CCS (Type 2),DC,30.0,,,1.0,Operational
+308983,CCS (Type 2),DC,30.0,,,2.0,Operational
+309223,CCS (Type 2),DC,60.0,,,2.0,Operational
+297660,Type 2 (Socket Only),AC (Three-Phase),11.0,15.0,220.0,1.0,Operational
+308808,Type 2 (Tethered Connector) ,AC (Three-Phase),22.0,,,1.0,Operational
+308646,CCS (Type 2),DC,25.0,,,1.0,Operational
+308646,CHAdeMO,DC,25.0,,,1.0,Operational
+309304,CCS (Type 2),DC,60.0,,,1.0,Operational
+309304,Type 2 (Tethered Connector) ,AC (Three-Phase),7.4,,,5.0,Operational
+309346,CCS (Type 2),DC,60.0,,,2.0,Operational
+309346,CCS (Type 2),DC,60.0,,,2.0,Operational
+308985,CCS (Type 2),DC,30.0,,,1.0,Operational
+308973,CCS (Type 2),DC,60.0,,,2.0,Operational
+309307,CCS (Type 2),DC,30.0,,,1.0,Operational
+309300,CCS (Type 2),DC,25.0,,,1.0,Operational
+308890,CCS (Type 2),DC,120.0,,,2.0,Operational
+308890,IEC 60309 3-pin,AC (Single-Phase),3.3,,,3.0,Operational
+273116,CCS (Type 2),DC,24.0,,,1.0,Operational
+309314,CCS (Type 2),DC,60.0,,,2.0,Operational
+309314,CCS (Type 2),DC,60.0,,,2.0,Operational
+309314,CCS (Type 2),DC,60.0,,,2.0,Operational
+309314,CCS (Type 2),DC,60.0,,,2.0,Operational
+309314,CCS (Type 2),DC,60.0,,,2.0,Operational
+309314,CCS (Type 2),DC,60.0,,,2.0,Operational
+309314,CCS (Type 2),DC,60.0,,,2.0,Operational
+309314,CCS (Type 2),DC,30.0,,,2.0,Operational
+309314,CCS (Type 2),DC,30.0,,,2.0,Operational
+309314,CCS (Type 2),DC,30.0,,,2.0,Operational
+308661,CCS (Type 2),DC,60.0,,,2.0,Operational
+309155,CCS (Type 2),DC,30.0,,,2.0,Operational
+309294,CCS (Type 2),DC,30.0,,,1.0,Operational
+309294,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308776,CCS (Type 2),DC,60.0,,,2.0,Operational
+308964,CCS (Type 2),DC,60.0,,,2.0,Operational
+308970,CCS (Type 2),DC,30.0,,,2.0,Operational
+481501,CCS (Type 2),DC,30.0,,,2.0,Operational
+103615,Unknown,AC (Single-Phase),3.0,16.0,270.0,1.0,Operational
+308886,CCS (Type 2),DC,120.0,,,2.0,Operational
+308886,IEC 60309 3-pin,AC (Single-Phase),3.3,,,3.0,Operational
+308837,CCS (Type 2),DC,60.0,,,2.0,Operational
+308837,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,32.0,240.0,3.0,Operational
+308988,CCS (Type 2),DC,30.0,,,1.0,Operational
+308943,CCS (Type 2),DC,30.0,,,1.0,Operational
+309156,CCS (Type 2),DC,30.0,,,1.0,Operational
+309345,CCS (Type 2),DC,30.0,,,2.0,Operational
+309311,CCS (Type 2),DC,80.0,,,2.0,Operational
+308762,CCS (Type 2),DC,60.0,,,2.0,Operational
+308648,CCS (Type 2),DC,50.0,,,2.0,Operational
+309016,CCS (Type 2),DC,25.0,,,1.0,Operational
+309016,Type 2 (Tethered Connector) ,AC (Three-Phase),10.7,16.0,400.0,1.0,Operational
+309062,CCS (Type 2),DC,24.0,,,1.0,Operational
+481502,CCS (Type 2),DC,25.0,,,1.0,Operational
+481502,CHAdeMO,DC,25.0,,,1.0,Operational
+308980,CCS (Type 2),DC,60.0,,,2.0,Operational
+308980,CCS (Type 2),DC,60.0,,,2.0,Operational
+308897,CCS (Type 2),DC,30.0,,,3.0,Operational
+308897,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308897,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308907,CCS (Type 2),DC,120.0,,,2.0,Operational
+308907,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308907,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308895,CCS (Type 2),DC,120.0,,,2.0,Operational
+308895,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308895,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308987,CCS (Type 2),DC,25.0,,,1.0,Operational
+308987,CHAdeMO,DC,25.0,,,1.0,Operational
+308790,CCS (Type 2),DC,60.0,,,2.0,Operational
+308903,CCS (Type 2),DC,120.0,,,2.0,Operational
+308903,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308903,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+309017,CCS (Type 2),DC,25.0,,,1.0,Operational
+309017,CHAdeMO,DC,25.0,,,1.0,Operational
+309222,CCS (Type 2),DC,60.0,,,2.0,Operational
+308992,CCS (Type 2),DC,25.0,,,1.0,Operational
+308992,CHAdeMO,DC,25.0,,,1.0,Operational
+308992,Type 2 (Tethered Connector) ,AC (Three-Phase),7.4,,,1.0,Operational
+308992,CCS (Type 2),DC,60.0,,,2.0,Operational
+308926,CCS (Type 2),DC,60.0,,,2.0,Operational
+308814,CCS (Type 2),DC,60.0,,,2.0,Operational
+308814,CCS (Type 2),DC,24.0,,,1.0,Operational
+308814,CCS (Type 2),DC,50.0,,,1.0,Operational
+308782,CCS (Type 2),DC,30.0,,,1.0,Operational
+309281,CCS (Type 2),DC,24.0,,,1.0,Operational
+308645,CCS (Type 2),DC,120.0,,,2.0,Operational
+188200,Type 2 (Tethered Connector) ,AC (Single-Phase),3.3,,240.0,1.0,Operational
+309063,CCS (Type 2),DC,60.0,,,2.0,Operational
+309063,CCS (Type 2),DC,80.0,,,2.0,Operational
+309063,Type 2 (Tethered Connector) ,AC (Single-Phase),7.5,32.0,230.0,1.0,Operational
+309440,CCS (Type 2),DC,60.0,,,2.0,Operational
+309440,CCS (Type 2),DC,30.0,,,1.0,Operational
+309189,CCS (Type 2),DC,60.0,,,2.0,Operational
+309189,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,32.0,230.0,1.0,Operational
+309068,CCS (Type 2),DC,90.0,,,2.0,Operational
+308802,CCS (Type 2),DC,30.0,,,2.0,Operational
+481506,CCS (Type 2),DC,30.0,,,2.0,Operational
+311451,Type 2 (Tethered Connector) ,AC (Three-Phase),7.4,,,1.0,Operational
+309220,CCS (Type 2),DC,25.0,,,1.0,Operational
+309220,CHAdeMO,DC,25.0,,,1.0,Operational
+308783,CCS (Type 2),DC,160.0,,,2.0,Operational
+308783,CCS (Type 2),DC,200.0,,,1.0,Operational
+308783,CCS (Type 2),DC,24.0,,,1.0,Operational
+308879,CCS (Type 2),DC,120.0,,,2.0,Operational
+308879,CCS (Type 2),DC,120.0,,,2.0,Operational
+308804,Type 2 (Tethered Connector) ,AC (Single-Phase),7.0,,,2.0,Operational
+308714,CCS (Type 2),DC,60.0,,,2.0,Operational
+308809,CCS (Type 2),DC,24.0,,,1.0,Operational
+308809,Type 2 (Tethered Connector) ,AC (Three-Phase),22.0,,,1.0,Operational
+309344,CCS (Type 2),DC,60.0,,,2.0,Operational
+309024,CCS (Type 2),DC,30.0,,,1.0,Operational
+309309,CCS (Type 2),DC,60.0,,,2.0,Operational
+309225,CCS (Type 2),DC,30.0,,,1.0,Operational
+308991,CCS (Type 2),DC,60.0,,,2.0,Operational
+309148,CCS (Type 2),DC,150.0,,,1.0,Operational
+309267,CCS (Type 2),DC,60.0,,,2.0,Operational
+103607,Unknown,AC (Single-Phase),3.0,16.0,270.0,1.0,Operational
+103614,Type M,AC (Single-Phase),3.0,16.0,240.0,1.0,Operational
+309150,CCS (Type 2),DC,30.0,,,1.0,Operational
+309302,CCS (Type 2),DC,25.0,,,1.0,Operational
+309302,CHAdeMO,DC,25.0,,,1.0,Operational
+309151,CCS (Type 2),DC,60.0,,,2.0,Operational
+309151,CCS (Type 2),DC,60.0,,,2.0,Operational
+309151,CCS (Type 2),DC,60.0,,,2.0,Operational
+309151,CCS (Type 2),DC,60.0,,,2.0,Operational
+309151,CCS (Type 2),DC,60.0,,,2.0,Operational
+309151,CCS (Type 2),DC,60.0,,,2.0,Operational
+309151,CCS (Type 2),DC,60.0,,,2.0,Operational
+309151,CCS (Type 2),DC,60.0,,,2.0,Operational
+309151,CCS (Type 2),DC,60.0,,,2.0,Operational
+309151,CCS (Type 2),DC,60.0,,,2.0,Operational
+309098,CCS (Type 2),DC,60.0,,,2.0,Operational
+309019,CCS (Type 2),DC,60.0,,,2.0,Operational
+309019,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,32.0,230.0,1.0,Operational
+309019,Type 2 (Tethered Connector) ,AC (Three-Phase),10.7,16.0,400.0,2.0,Operational
+308800,CCS (Type 2),DC,30.0,,,2.0,Operational
+308800,Type 2 (Tethered Connector) ,AC (Three-Phase),22.0,,,1.0,Operational
+308800,Type 2 (Tethered Connector) ,,22.0,,,1.0,Operational
+308898,CCS (Type 2),DC,30.0,,,4.0,Operational
+308986,CCS (Type 2),DC,90.0,,,2.0,Operational
+309018,CCS (Type 2),DC,30.0,,,1.0,Operational
+308953,CCS (Type 2),DC,30.0,,,1.0,Operational
+308953,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+309332,CCS (Type 2),DC,30.0,,,2.0,Operational
+309332,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,32.0,230.0,2.0,Operational
+309330,CCS (Type 2),DC,60.0,,,2.0,Operational
+309330,CCS (Type 2),DC,60.0,,,2.0,Operational
+309330,CCS (Type 2),DC,60.0,,,2.0,Operational
+309330,CCS (Type 2),DC,60.0,,,2.0,Operational
+309330,CCS (Type 2),DC,60.0,,,2.0,Operational
+309330,CCS (Type 2),DC,60.0,,,2.0,Operational
+309330,CCS (Type 2),DC,60.0,,,2.0,Operational
+309152,CCS (Type 2),DC,120.0,,,2.0,Operational
+309152,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+309152,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+309152,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308792,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,32.0,240.0,2.0,Operational
+481504,CCS (Type 2),DC,30.0,,,2.0,Operational
+309186,CCS (Type 2),DC,60.0,,,12.0,Operational
+309186,IEC 60309 3-pin,AC (Single-Phase),3.3,,,42.0,Operational
+309186,GB-T DC - GB/T 20234.3,DC,30.0,,,2.0,Operational
+309021,CCS (Type 2),DC,25.0,,,1.0,Operational
+308757,CCS (Type 2),DC,60.0,,,2.0,Operational
+309357,CCS (Type 2),DC,60.0,,,2.0,Operational
+308984,CCS (Type 2),DC,30.0,,,1.0,Operational
+309278,CCS (Type 2),DC,25.0,,,1.0,Operational
+309278,CHAdeMO,DC,25.0,,,1.0,Operational
+308780,CCS (Type 2),DC,25.0,,,1.0,Operational
+308780,CHAdeMO,DC,25.0,,,1.0,Operational
+308780,Type 2 (Tethered Connector) ,AC (Three-Phase),7.4,,,1.0,Operational
+308949,CCS (Type 2),DC,60.0,,,2.0,Operational
+308905,CCS (Type 2),DC,120.0,,,2.0,Operational
+308905,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308905,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308882,CCS (Type 2),DC,60.0,,,2.0,Operational
+309154,CCS (Type 2),DC,30.0,,,2.0,Operational
+309500,CCS (Type 2),DC,30.0,,,1.0,Operational
+308733,CCS (Type 2),DC,150.0,,,1.0,Operational
+308734,CCS (Type 2),DC,120.0,,,2.0,Operational
+308734,Unknown,AC (Single-Phase),3.3,,,3.0,Operational
+308994,CCS (Type 2),DC,60.0,,,2.0,Operational
+309158,CCS (Type 2),DC,60.0,,,2.0,Operational
+103616,Unknown,AC (Single-Phase),3.0,16.0,270.0,4.0,Operational
+308649,CCS (Type 2),DC,60.0,,,6.0,Operational
+308899,CCS (Type 2),DC,30.0,,,4.0,Operational
+308899,IEC 60309 3-pin,AC (Single-Phase),3.3,,,5.0,Operational
+308942,Type 2 (Tethered Connector) ,AC (Three-Phase),7.0,,,1.0,Operational
+308942,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308777,CCS (Type 2),DC,25.0,,,1.0,Operational
+308777,CHAdeMO,DC,25.0,,,1.0,Operational
+103609,Unknown,AC (Single-Phase),3.0,16.0,270.0,1.0,Operational
+309484,Type 2 (Tethered Connector) ,AC (Three-Phase),7.2,,,1.0,Operational
+313728,CCS (Type 2),DC,60.0,,,2.0,Operational
+308916,CCS (Type 2),DC,60.0,,,2.0,Operational
+309317,CCS (Type 2),DC,60.0,,,2.0,Operational
+309317,IEC 60309 3-pin,AC (Single-Phase),3.3,,,75.0,Operational
+309317,GB-T DC - GB/T 20234.3,DC,30.0,,,6.0,Operational
+309317,Type 2 (Tethered Connector) ,AC (Three-Phase),7.0,,,1.0,Operational
+309317,CCS (Type 2),DC,60.0,,,2.0,Operational
+309317,CCS (Type 2),DC,60.0,,,2.0,Operational
+309317,CCS (Type 2),DC,60.0,,,2.0,Operational
+309317,CCS (Type 2),DC,60.0,,,2.0,Operational
+309317,CCS (Type 2),DC,60.0,,,2.0,Operational
+309317,CCS (Type 2),DC,60.0,,,2.0,Operational
+309317,CCS (Type 2),DC,60.0,,,2.0,Operational
+309271,CCS (Type 2),DC,30.0,,,2.0,Operational
+309271,CCS (Type 2),DC,30.0,,,2.0,Operational
+309271,CCS (Type 2),DC,30.0,,,2.0,Operational
+309271,CCS (Type 2),DC,30.0,,,2.0,Operational
+309426,CCS (Type 2),DC,60.0,,,2.0,Operational
+309426,Type 2 (Tethered Connector) ,AC (Three-Phase),7.5,,,1.0,Operational
+309296,CCS (Type 2),DC,60.0,,,1.0,Operational
+309296,CCS (Type 2),DC,60.0,,,2.0,Operational
+308938,Type 2 (Tethered Connector) ,AC (Single-Phase),7.0,32.0,240.0,1.0,Operational
+308918,CCS (Type 2),DC,60.0,,,13.0,Operational
+308918,IEC 60309 3-pin,AC (Single-Phase),3.3,,,12.0,Operational
+308918,Type 2 (Tethered Connector) ,AC (Three-Phase),7.5,,,1.0,Operational
+308918,GB-T DC - GB/T 20234.3,DC,30.0,,,2.0,Operational
+309270,CCS (Type 2),DC,24.0,,,1.0,Operational
+313729,CCS (Type 2),DC,60.0,,,1.0,Operational
+313729,CCS (Type 2),DC,60.0,,,1.0,Operational
+103604,Unknown,AC (Single-Phase),3.0,16.0,270.0,2.0,Operational
+309014,CCS (Type 2),DC,60.0,,,2.0,Operational
+308939,Type 2 (Tethered Connector) ,AC (Single-Phase),7.0,32.0,240.0,1.0,Operational
+308939,Type 2 (Tethered Connector) ,AC (Single-Phase),7.0,32.0,240.0,1.0,Operational
+309339,CCS (Type 2),DC,60.0,,,2.0,Operational
+308716,CCS (Type 2),DC,60.0,,,2.0,Operational
+308989,CCS (Type 2),DC,24.0,,,1.0,Operational
+309279,CCS (Type 2),DC,60.0,,,2.0,Operational
+107668,Unknown,AC (Single-Phase),2.0,10.0,240.0,1.0,Operational
+309266,CCS (Type 2),DC,60.0,,,2.0,Operational
+309328,Type 2 (Tethered Connector) ,AC (Three-Phase),7.4,,,19.0,Operational
+309328,CCS (Type 2),DC,60.0,,,2.0,Operational
+309328,CCS (Type 2),DC,60.0,,,2.0,Operational
+309328,CCS (Type 2),DC,60.0,,,2.0,Operational
+309328,CCS (Type 2),DC,60.0,,,2.0,Operational
+309328,CCS (Type 2),DC,60.0,,,2.0,Operational
+308998,CCS (Type 2),DC,30.0,,,1.0,Operational
+308810,CCS (Type 2),DC,24.0,,,1.0,Operational
+308810,CCS (Type 2),DC,50.0,,,1.0,Operational
+297630,CCS (Type 2),DC,50.0,,,1.0,Operational
+297630,CCS (Type 2),DC,24.0,,,1.0,Operational
+308919,CCS (Type 2),DC,60.0,,,2.0,Operational
+309331,CCS (Type 2),DC,24.0,,,1.0,Operational
+309318,CCS (Type 2),DC,60.0,,,32.0,Operational
+309318,IEC 60309 3-pin,AC (Single-Phase),3.3,,,100.0,Operational
+309318,GB-T DC - GB/T 20234.3,DC,30.0,,,2.0,Operational
+309318,Type 2 (Tethered Connector) ,AC (Single-Phase),7.5,,,1.0,Operational
+309318,Type 2 (Tethered Connector) ,AC (Single-Phase),7.0,,,1.0,Operational
+309299,CCS (Type 2),DC,25.0,,,1.0,Operational
+309437,CCS (Type 2),DC,90.0,,,2.0,Operational
+309437,CCS (Type 2),DC,30.0,,,1.0,Operational
+309188,CCS (Type 2),DC,25.0,,,1.0,Operational
+309188,Type 2 (Tethered Connector) ,AC (Single-Phase),7.2,32.0,230.0,1.0,Operational
+309335,CCS (Type 2),DC,30.0,,,2.0,Operational
+308860,CCS (Type 2),DC,60.0,,,2.0,Operational
+308758,CCS (Type 2),DC,25.0,,,2.0,Operational
+103746,CHAdeMO,DC,,,,1.0,Operational
+103746,Blue Commando (2P+E),AC (Single-Phase),3.6,16.0,230.0,1.0,Operational
+309329,CCS (Type 2),DC,60.0,,,2.0,Operational
+309329,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,32.0,230.0,1.0,Operational
+481499,CCS (Type 2),DC,30.0,,,1.0,Operational
+309232,CCS (Type 2),DC,60.0,,,1.0,Operational
+308805,Type 2 (Tethered Connector) ,AC (Three-Phase),22.0,,,1.0,Operational
+309096,Type 2 (Tethered Connector) ,AC (Three-Phase),22.0,,,2.0,Operational
+308773,CCS (Type 2),DC,60.0,,,2.0,Operational
+308719,CCS (Type 2),DC,60.0,,,2.0,Operational
+309336,CCS (Type 2),DC,60.0,,,2.0,Operational
+309336,CCS (Type 2),DC,60.0,,,2.0,Operational
+309336,CCS (Type 2),DC,60.0,,,2.0,Operational
+309336,CCS (Type 2),DC,60.0,,,2.0,Operational
+309336,CCS (Type 2),DC,60.0,,,2.0,Operational
+309336,CCS (Type 2),DC,60.0,,,2.0,Operational
+309336,CCS (Type 2),DC,60.0,,,2.0,Operational
+308944,CCS (Type 2),DC,30.0,,,1.0,Operational
+308644,CCS (Type 2),DC,24.0,,,1.0,Operational
+309337,CCS (Type 2),DC,60.0,,,2.0,Operational
+311452,CCS (Type 2),DC,30.0,,,1.0,Operational
+308889,CCS (Type 2),DC,120.0,,,2.0,Operational
+308889,IEC 60309 3-pin,AC (Single-Phase),3.3,,,3.0,Operational
+308900,CCS (Type 2),DC,120.0,,,2.0,Operational
+308900,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308900,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308885,CCS (Type 2),DC,120.0,,,2.0,Operational
+308871,Type 2 (Tethered Connector) ,AC (Three-Phase),22.0,,,2.0,Operational
+481505,CCS (Type 2),DC,30.0,,,2.0,Operational
+459990,CCS (Type 2),DC,60.0,,,2.0,Operational
+309369,CCS (Type 2),DC,30.0,,,1.0,Operational
+309023,CCS (Type 2),DC,30.0,,,1.0,Operational
+309060,CCS (Type 2),DC,30.0,,,2.0,Operational
+309435,CCS (Type 2),DC,30.0,,,2.0,Operational
+308732,CCS (Type 2),DC,60.0,,,2.0,Operational
+309297,CCS (Type 2),DC,60.0,,,2.0,Operational
+308812,CCS (Type 2),DC,50.0,,,1.0,Operational
+308978,CCS (Type 2),DC,30.0,,,1.0,Operational
+308891,CCS (Type 2),DC,120.0,,,2.0,Operational
+308891,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308891,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308729,CCS (Type 2),DC,30.0,,,1.0,Operational
+485466,CCS (Type 2),DC,30.0,,,1.0,Operational
+308730,CCS (Type 2),DC,25.0,,,1.0,Operational
+308730,Type 2 (Socket Only),AC (Single-Phase),7.2,,,1.0,Operational
+308806,CCS (Type 2),DC,24.0,,,1.0,Operational
+308976,CCS (Type 2),DC,25.0,,,1.0,Operational
+308976,CHAdeMO,DC,25.0,,,1.0,Operational
+309230,CCS (Type 2),DC,30.0,,,1.0,Operational
+460478,CCS (Type 2),DC,120.0,,,2.0,Operational
+460478,CCS (Type 2),DC,30.0,,,2.0,Operational
+308759,CCS (Type 2),DC,60.0,,,2.0,Operational
+308759,CCS (Type 2),DC,60.0,,,2.0,Operational
+308950,CCS (Type 2),DC,25.0,,,1.0,Operational
+308862,CCS (Type 2),DC,30.0,,,1.0,Operational
+308862,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,32.0,240.0,1.0,Operational
+309342,CCS (Type 2),DC,25.0,,,1.0,Operational
+309342,CHAdeMO,DC,25.0,,,1.0,Operational
+309227,CCS (Type 2),DC,30.0,,,1.0,Operational
+308893,CCS (Type 2),DC,30.0,,,4.0,Operational
+309269,CCS (Type 2),DC,30.0,,,1.0,Operational
+309229,CCS (Type 2),DC,30.0,,,1.0,Operational
+309334,CCS (Type 2),DC,60.0,,,2.0,Operational
+308881,CCS (Type 2),DC,120.0,,,2.0,Operational
+308951,CCS (Type 2),DC,25.0,,,1.0,Operational
+308951,CHAdeMO,DC,25.0,,,1.0,Operational
+308925,CCS (Type 2),DC,80.0,,,2.0,Operational
+309338,CCS (Type 2),DC,30.0,,,2.0,Operational
+309185,CCS (Type 2),DC,50.0,,,1.0,Operational
+309185,CHAdeMO,DC,50.0,,,1.0,Operational
+309185,Type 2 (Tethered Connector) ,AC (Three-Phase),22.0,,,1.0,Operational
+308982,CCS (Type 2),DC,120.0,,,2.0,Operational
+308650,CCS (Type 2),DC,150.0,,,1.0,Operational
+308650,CCS (Type 2),DC,60.0,,,1.0,Operational
+308650,CCS (Type 2),DC,30.0,,,1.0,Operational
+309274,CCS (Type 2),AC (Three-Phase),15.0,,,1.0,Operational
+311408,CCS (Type 2),DC,60.0,,,2.0,Operational
+308894,CCS (Type 2),DC,120.0,,,2.0,Operational
+308894,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308894,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+309368,CCS (Type 2),DC,60.0,,,2.0,Operational
+308971,CCS (Type 2),DC,60.0,,,2.0,Operational
+308658,CCS (Type 2),DC,60.0,,,2.0,Operational
+308658,CCS (Type 2),DC,30.0,,,2.0,Operational
+309265,CCS (Type 2),DC,30.0,,,1.0,Operational
+308915,CCS (Type 2),DC,60.0,,,2.0,Operational
+308660,CCS (Type 2),DC,30.0,,,2.0,Operational
+308913,CCS (Type 2),DC,120.0,,,2.0,Operational
+308876,CCS (Type 2),DC,160.0,,,6.0,Operational
+308876,Type 2 (Tethered Connector) ,AC (Three-Phase),43.0,,,1.0,Operational
+308876,CCS (Type 2),DC,50.0,,,1.0,Operational
+308876,CCS (Type 2),DC,60.0,,,2.0,Operational
+308861,Type 2 (Tethered Connector) ,AC (Three-Phase),7.0,,,1.0,Operational
+308861,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308798,CCS (Type 2),DC,30.0,,,2.0,Operational
+309226,CCS (Type 2),DC,30.0,,,1.0,Operational
+309228,CCS (Type 2),DC,30.0,,,1.0,Operational
+308722,CCS (Type 2),DC,60.0,,,2.0,Operational
+308817,CCS (Type 2),DC,30.0,,,2.0,Operational
+481500,CCS (Type 2),DC,100.0,,,2.0,Operational
+481500,CCS (Type 2),DC,90.0,,,2.0,Operational
+481500,CCS (Type 2),DC,80.0,,,2.0,Operational
+481500,CCS (Type 2),DC,75.0,,,2.0,Operational
+309427,CCS (Type 2),DC,30.0,,,1.0,Operational
+308920,CCS (Type 2),DC,60.0,,,16.0,Operational
+308920,Type 2 (Tethered Connector) ,AC (Three-Phase),7.5,,,3.0,Operational
+308920,IEC 60309 3-pin,AC (Single-Phase),3.3,,,45.0,Operational
+308920,GB-T DC - GB/T 20234.3,DC,30.0,,,6.0,Operational
+308902,CCS (Type 2),DC,120.0,,,2.0,Operational
+308902,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308902,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+309190,CCS (Type 2),DC,60.0,,,2.0,Operational
+309268,CCS (Type 2),DC,90.0,,,2.0,Operational
+460636,CCS (Type 2),DC,30.0,,,2.0,Operational
+308859,CCS (Type 2),DC,30.0,,,1.0,Operational
+308917,CCS (Type 2),DC,60.0,,,3.0,Operational
+308917,IEC 60309 3-pin,AC (Single-Phase),3.3,,,29.0,Operational
+309422,CCS (Type 2),DC,60.0,,,2.0,Operational
+309367,CCS (Type 2),DC,60.0,,,2.0,Operational
+309367,Type 2 (Tethered Connector) ,AC (Three-Phase),7.4,,,1.0,Operational
+309340,CCS (Type 2),DC,60.0,,,12.0,Operational
+309340,IEC 60309 3-pin,AC (Single-Phase),3.3,,,30.0,Operational
+309340,GB-T DC - GB/T 20234.3,DC,30.0,,,2.0,Operational
+308921,CCS (Type 2),DC,60.0,,,2.0,Operational
+308803,Type 2 (Tethered Connector) ,AC (Single-Phase),22.0,,,1.0,Operational
+297629,CCS (Type 2),DC,60.0,,,2.0,Operational
+309272,CCS (Type 2),DC,30.0,,,1.0,Operational
+309272,Type 2 (Tethered Connector) ,AC (Three-Phase),7.4,,,1.0,Operational
+309277,CCS (Type 2),DC,50.0,,,1.0,Operational
+309076,CCS (Type 2),DC,24.0,,,1.0,Operational
+308791,CCS (Type 2),DC,30.0,,,1.0,Operational
+309349,CCS (Type 2),DC,60.0,,,2.0,Operational
+309349,CCS (Type 2),DC,60.0,,,2.0,Operational
+309224,CCS (Type 2),DC,30.0,,,1.0,Operational
+308878,CCS (Type 2),DC,60.0,,,2.0,Operational
+308760,CCS (Type 2),DC,30.0,,,2.0,Operational
+309064,CCS (Type 2),DC,30.0,,,1.0,Operational
+308656,CCS (Type 2),DC,60.0,,,2.0,Operational
+308678,CCS (Type 2),DC,90.0,,,2.0,Operational
+308731,CCS (Type 2),DC,120.0,,,2.0,Operational
+308731,IEC 60309 3-pin,AC (Single-Phase),3.3,15.0,230.0,1.0,Operational
+308731,IEC 60309 3-pin,AC (Single-Phase),3.3,15.0,230.0,1.0,Operational
+308731,IEC 60309 3-pin,AC (Single-Phase),3.3,15.0,230.0,1.0,Operational
+103610,Unknown,AC (Single-Phase),3.0,16.0,270.0,1.0,Operational
+103606,Unknown,AC (Single-Phase),3.0,16.0,270.0,1.0,Operational
+308819,CCS (Type 2),DC,30.0,,,2.0,Operational
+309285,CCS (Type 2),DC,150.0,,,1.0,Operational
+309285,CCS (Type 2),DC,60.0,,,1.0,Operational
+309285,CCS (Type 2),DC,30.0,,,1.0,Operational
+309187,CCS (Type 2),DC,150.0,,,1.0,Operational
+309187,CCS (Type 2),DC,60.0,,,1.0,Operational
+309187,CCS (Type 2),DC,30.0,,,1.0,Operational
+308647,CCS (Type 2),DC,30.0,,,1.0,Operational
+309442,CCS (Type 2),DC,60.0,,,1.0,Operational
+309425,CCS (Type 2),DC,60.0,,,2.0,Operational
+485107,CCS (Type 2),DC,180.0,,,2.0,Operational
+485107,CCS (Type 2),DC,180.0,,,2.0,Operational
+309283,CCS (Type 2),DC,30.0,,,2.0,Operational
+103612,Unknown,AC (Single-Phase),3.0,16.0,270.0,1.0,Operational
+309444,CCS (Type 2),DC,30.0,,,1.0,Operational
+309444,Type 2 (Tethered Connector) ,DC,7.0,,,1.0,Operational
+308662,CCS (Type 2),DC,120.0,,,2.0,Operational
+309351,CCS (Type 2),DC,30.0,,,2.0,Operational
+308896,CCS (Type 2),DC,120.0,,,2.0,Operational
+308896,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308896,IEC 60309 3-pin,AC (Single-Phase),3.3,,,1.0,Operational
+308778,CCS (Type 2),DC,30.0,,,1.0,Operational
+309441,CCS (Type 2),DC,30.0,,,1.0,Operational
+309066,CCS (Type 2),DC,60.0,,,2.0,Operational
+103613,Unknown,AC (Single-Phase),3.0,16.0,270.0,1.0,Operational
+308941,CCS (Type 2),DC,60.0,,,2.0,Operational
+309022,CCS (Type 2),DC,90.0,,,2.0,Operational
+472508,CCS (Type 2),AC (Single-Phase),,,,1.0,Operational
+309157,CCS (Type 2),DC,30.0,,,2.0,Operational
+308997,CCS (Type 2),DC,30.0,,,1.0,Operational
+308873,CCS (Type 2),DC,60.0,,,2.0,Operational
+309313,CCS (Type 2),DC,60.0,,,2.0,Operational
+309069,CCS (Type 2),DC,30.0,,,1.0,Operational
+308715,CCS (Type 2),DC,60.0,,,2.0,Operational
+308721,CCS (Type 2),DC,60.0,,,2.0,Not Operational
+311454,CCS (Type 2),DC,30.0,,,1.0,Operational
+309298,CCS (Type 2),DC,60.0,,,2.0,Operational
+309298,CCS (Type 2),DC,60.0,,,2.0,Operational
+309298,CCS (Type 2),DC,60.0,,,2.0,Operational
+309298,CCS (Type 2),DC,60.0,,,2.0,Operational
+308923,CCS (Type 2),DC,60.0,,,2.0,Operational
+309352,CCS (Type 2),DC,60.0,,,2.0,Operational
+308663,CCS (Type 2),DC,30.0,,,2.0,Operational
+308816,CCS (Type 2),DC,60.0,,,2.0,Operational
+481503,CCS (Type 2),DC,60.0,,,2.0,Operational
+481503,CCS (Type 2),DC,30.0,,,2.0,Operational
+481503,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,,,1.0,Operational
+301965,CCS (Type 2),DC,40.0,,,2.0,Operational
+308888,CCS (Type 2),DC,120.0,,,2.0,Operational
+308888,IEC 60309 3-pin,AC (Single-Phase),3.3,,,3.0,Operational
+308995,CCS (Type 2),DC,60.0,,,2.0,Operational
+308877,CCS (Type 2),DC,120.0,,,2.0,Operational
+308877,CCS (Type 2),DC,120.0,,,2.0,Operational
+308813,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,32.0,220.0,1.0,Operational
+308659,CCS (Type 2),DC,120.0,,,2.0,Operational
+309015,CCS (Type 2),DC,30.0,,,1.0,Operational
+308977,CCS (Type 2),DC,60.0,,,2.0,Operational
+308901,CCS (Type 2),DC,120.0,,,2.0,Operational
+309370,CCS (Type 2),DC,60.0,,,1.0,Operational
+474191,CCS (Type 2),DC,60.0,,,2.0,Operational
+308874,CCS (Type 2),DC,24.0,,,1.0,Operational
+308937,CCS (Type 2),DC,60.0,,,2.0,Operational
+308708,CCS (Type 2),DC,24.0,,,1.0,Operational
+308708,Type 2 (Tethered Connector) ,AC (Single-Phase),7.4,,,1.0,Operational
+309355,CCS (Type 2),DC,30.0,,,1.0,Operational
+308795,Type 2 (Tethered Connector) ,AC (Single-Phase),7.2,32.0,240.0,3.0,Operational
+308975,CCS (Type 2),DC,60.0,,,1.0,Operational
+308975,CCS (Type 2),DC,30.0,,,1.0,Operational
+309013,CCS (Type 2),DC,30.0,,,1.0,Operational
+308972,CCS (Type 2),DC,25.0,,,1.0,Operational
+308927,CCS (Type 2),DC,60.0,,,2.0,Operational
+308981,CCS (Type 2),DC,60.0,,,2.0,Operational
+308801,CCS (Type 2),DC,60.0,,,2.0,Operational
+308801,Type 2 (Tethered Connector) ,AC (Three-Phase),7.5,,,1.0,Operational
+308811,Type 2 (Tethered Connector) ,AC (Three-Phase),22.0,,,1.0,Operational
+103611,Unknown,AC (Single-Phase),3.0,16.0,270.0,1.0,Operational
+308815,CCS (Type 2),DC,120.0,,,2.0,Operational
+308815,Type 2 (Tethered Connector) ,AC (Single-Phase),22.0,,,1.0,Operational
+309301,CCS (Type 2),DC,60.0,,,2.0,Operational
+309273,CCS (Type 2),DC,60.0,,,1.0,Operational
+309423,CCS (Type 2),DC,60.0,,,2.0,Operational
+309310,CCS (Type 2),DC,60.0,,,2.0,Operational
+308990,CCS (Type 2),DC,30.0,,,2.0,Operational
+308990,CCS (Type 2),DC,30.0,,,2.0,Operational
+308711,CCS (Type 2),DC,60.0,,,2.0,Operational
+308946,CCS (Type 2),DC,150.0,,,1.0,Operational
+308946,CCS (Type 2),DC,60.0,,,1.0,Operational
+308946,CCS (Type 2),DC,30.0,,,1.0,Operational
+308761,CCS (Type 2),DC,60.0,,,2.0,Operational
+309316,CCS (Type 2),DC,60.0,,,1.0,Operational
+311453,CCS (Type 2),DC,60.0,,,2.0,Operational
+311453,CCS (Type 2),DC,60.0,,,2.0,Operational
+485444,CCS (Type 2),DC,30.0,,,2.0,Operational
+308999,CCS (Type 2),DC,30.0,,,1.0,Operational
+308883,CCS (Type 2),DC,60.0,,,2.0,Operational
+308774,CCS (Type 2),DC,60.0,,,2.0,Operational
+308655,CCS (Type 2),DC,25.0,,,1.0,Operational
+308655,CHAdeMO,DC,25.0,,,1.0,Operational
+309095,CCS (Type 2),DC,60.0,,,2.0,Not Operational
+311455,CCS (Type 2),DC,30.0,,,1.0,Operational
+308945,CCS (Type 2),DC,60.0,,,2.0,Operational

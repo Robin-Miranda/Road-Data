@@ -1,0 +1,10 @@
+from,to,straight_line_km,network_km,circuity,snap_from_m,snap_to_m
+Bengaluru,Mysuru,125.9,140.4,1.11,61,333
+Bengaluru,Shivamogga,242.5,274.8,1.13,61,168
+Bengaluru,Davanagere,244.8,259.6,1.06,61,69
+Bengaluru,Madikeri,210.1,254.5,1.21,61,146
+Bengaluru,Chikkamagaluru,200.3,231.3,1.16,61,43
+Bengaluru,Hubballi,373.7,404.0,1.08,61,81
+Bengaluru,Mangaluru,298.0,344.6,1.16,61,84
+Bengaluru,Belagavi,461.3,500.0,1.08,61,57
+Bengaluru,Kalaburagi,490.9,607.3,1.24,61,169
