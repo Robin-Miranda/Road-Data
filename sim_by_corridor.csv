@@ -1,0 +1,61 @@
+plan,scenario,corridor_id,ok,margin_p5,wait,dur
+Model B central,"Monte Carlo (1,000 draws)",C1,0.993,26.03,0.078,7.35
+Model B central,"Monte Carlo (1,000 draws)",C2,0.548,-65.688,22.293,12.599
+Model B central,"Monte Carlo (1,000 draws)",C3,0.964,5.015,13.768,14.383
+Model B central,"Monte Carlo (1,000 draws)",C4,0.476,-98.216,22.242,13.694
+Model B central,"Monte Carlo (1,000 draws)",C5,0.709,-58.847,36.849,13.436
+Model B central,"Monte Carlo (1,000 draws)",C6,0.996,31.02,8.563,13.537
+Model B central,S1 central,C1,1.0,35.585,0.064,7.321
+Model B central,S1 central,C2,0.346,-37.48,21.544,12.574
+Model B central,S1 central,C3,1.0,23.105,13.727,14.294
+Model B central,S1 central,C4,0.346,-52.024,22.496,13.717
+Model B central,S1 central,C5,0.83,-17.803,37.807,13.45
+Model B central,S1 central,C6,1.0,45.678,8.431,13.49
+Model B central,"S1 central, bunched departures",C1,1.0,35.731,3.572,7.363
+Model B central,"S1 central, bunched departures",C2,0.327,-35.942,56.126,13.139
+Model B central,"S1 central, bunched departures",C3,1.0,22.691,53.301,14.972
+Model B central,"S1 central, bunched departures",C4,0.346,-53.739,36.483,13.935
+Model B central,"S1 central, bunched departures",C5,0.846,-14.782,33.903,13.402
+Model B central,"S1 central, bunched departures",C6,1.0,44.851,46.0,14.109
+Model B central,"S1 central, lean charging",C1,0.863,-4.15,0.082,7.141
+Model B central,"S1 central, lean charging",C2,0.346,-36.891,18.492,12.419
+Model B central,"S1 central, lean charging",C3,0.748,-7.936,18.803,14.076
+Model B central,"S1 central, lean charging",C4,0.344,-52.563,21.617,13.694
+Model B central,"S1 central, lean charging",C5,0.802,-17.854,36.496,13.354
+Model B central,"S1 central, lean charging",C6,0.761,-6.129,1.837,12.852
+Model B central,S9 combined stress,C1,0.036,-30.457,10.469,7.616
+Model B central,S9 combined stress,C2,0.0,-141.165,127.922,14.407
+Model B central,S9 combined stress,C3,0.0,-63.669,155.121,16.916
+Model B central,S9 combined stress,C4,0.0,-189.855,73.44,14.563
+Model B central,S9 combined stress,C5,0.0,-149.766,93.639,14.399
+Model B central,S9 combined stress,C6,0.119,-30.738,110.715,15.424
+Model B robust,"Monte Carlo (1,000 draws)",C1,1.0,116.887,1.847,8.073
+Model B robust,"Monte Carlo (1,000 draws)",C2,1.0,52.618,2.338,13.332
+Model B robust,"Monte Carlo (1,000 draws)",C3,1.0,48.525,0.376,15.587
+Model B robust,"Monte Carlo (1,000 draws)",C4,1.0,104.18,21.979,15.32
+Model B robust,"Monte Carlo (1,000 draws)",C5,1.0,49.98,14.797,15.012
+Model B robust,"Monte Carlo (1,000 draws)",C6,1.0,42.298,0.29,14.369
+Model B robust,S1 central,C1,1.0,124.636,1.846,8.024
+Model B robust,S1 central,C2,1.0,63.319,1.618,13.237
+Model B robust,S1 central,C3,1.0,66.294,0.326,15.494
+Model B robust,S1 central,C4,1.0,112.134,21.402,15.224
+Model B robust,S1 central,C5,1.0,60.328,11.644,14.911
+Model B robust,S1 central,C6,1.0,56.534,0.323,14.303
+Model B robust,"S1 central, bunched departures",C1,1.0,124.556,3.952,8.058
+Model B robust,"S1 central, bunched departures",C2,1.0,62.878,7.062,13.322
+Model B robust,"S1 central, bunched departures",C3,1.0,65.644,5.617,15.589
+Model B robust,"S1 central, bunched departures",C4,1.0,112.209,22.376,15.237
+Model B robust,"S1 central, bunched departures",C5,1.0,59.519,19.088,15.058
+Model B robust,"S1 central, bunched departures",C6,1.0,56.591,3.724,14.326
+Model B robust,"S1 central, lean charging",C1,0.889,-1.841,0.273,7.168
+Model B robust,"S1 central, lean charging",C2,0.778,-3.268,0.037,12.308
+Model B robust,"S1 central, lean charging",C3,0.766,-7.509,0.096,14.6
+Model B robust,"S1 central, lean charging",C4,0.832,-3.512,7.78,13.906
+Model B robust,"S1 central, lean charging",C5,0.898,-2.609,10.697,13.7
+Model B robust,"S1 central, lean charging",C6,0.777,-5.398,0.12,13.755
+Model B robust,S9 combined stress,C1,1.0,75.306,2.587,8.235
+Model B robust,S9 combined stress,C2,0.983,2.854,12.12,13.782
+Model B robust,S9 combined stress,C3,0.652,-20.571,24.431,16.31
+Model B robust,S9 combined stress,C4,1.0,56.77,43.597,15.95
+Model B robust,S9 combined stress,C5,0.939,-0.807,59.483,15.934
+Model B robust,S9 combined stress,C6,0.484,-18.258,17.108,14.833

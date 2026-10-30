@@ -1,0 +1,7 @@
+corridor_id,destination,one_way_km,climb_out_m,descent_out_m,elev_start_m,elev_end_m,elev_max_m,out_kwh_per_km,return_kwh_per_km,round_trip_kwh_flat,round_trip_kwh_gradient,gradient_uplift_pct
+C1,Mysuru,137.5,514,678,910,746,910,1.258,1.381,357.5,362.828,1.49
+C2,Chikkamagaluru,229.7,996,864,909,1042,1042,1.348,1.287,597.22,605.047,1.311
+C3,Shivamogga,273.6,867,1189,909,587,938,1.25,1.377,711.36,718.855,1.054
+C4,Madikeri,253.0,1339,1123,910,1126,1206,1.373,1.292,657.8,674.032,2.468
+C5,Virajpet,240.5,1183,1177,910,916,916,1.332,1.329,625.3,640.047,2.358
+C6,Davanagere,258.0,725,1037,909,597,938,1.243,1.378,670.8,676.227,0.809

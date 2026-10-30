@@ -1,0 +1,37 @@
+plan,scenario,site,stops,wait_mean,wait_p95,share_waiting,chargers,util
+Model B central,S1 central,Davanagere destination,2000,0.0,0.0,0.0,1,0.201
+Model B central,S1 central,Hunsur fuel station,8000,14.98,53.98,0.51,1,0.583
+Model B central,S1 central,"Javagondnahalli, NH 48",4000,0.63,0.0,0.04,1,0.276
+Model B central,S1 central,Mysuru ring road (Manipal Hospital),12000,0.07,0.0,0.01,2,0.415
+Model B central,S1 central,Pandithanahalli (Hotel Nanjundeshwara),12000,3.31,23.97,0.19,1,0.75
+Model B central,S1 central,Shivamogga destination,2000,0.0,0.0,0.0,1,0.21
+Model B central,S1 central,Tiptur bus station,8000,5.65,30.7,0.28,1,0.581
+Model B central,S9 combined stress,Davanagere destination,4000,0.06,0.0,0.0,1,0.464
+Model B central,S9 combined stress,Hunsur fuel station,16000,38.64,90.41,0.8,1,1.167
+Model B central,S9 combined stress,"Javagondnahalli, NH 48",8000,3.14,25.4,0.17,1,0.581
+Model B central,S9 combined stress,Mysuru ring road (Manipal Hospital),24000,3.83,22.79,0.27,2,0.864
+Model B central,S9 combined stress,Pandithanahalli (Hotel Nanjundeshwara),24000,51.24,151.56,0.69,1,1.579
+Model B central,S9 combined stress,Shivamogga destination,4000,0.2,0.0,0.01,1,0.515
+Model B central,S9 combined stress,Tiptur bus station,16000,19.94,62.77,0.65,1,1.167
+Model B robust,S1 central,Barandur HP fuel station,4000,0.0,0.0,0.0,1,0.269
+Model B robust,S1 central,Haranahalli HP fuel station,4000,0.02,0.0,0.0,1,0.213
+Model B robust,S1 central,Hiriyur bus stand,4000,0.15,0.0,0.01,1,0.291
+Model B robust,S1 central,Kalkunike HP fuel station,8000,8.06,32.72,0.41,1,0.463
+Model B robust,S1 central,Kalpanahalli HP fuel station,4000,0.0,0.0,0.0,1,0.22
+Model B robust,S1 central,Madikeri destination,2000,0.0,0.0,0.0,1,0.154
+Model B robust,S1 central,Mathikere (Siri Restaurant),12000,0.44,0.0,0.04,2,0.368
+Model B robust,S1 central,Mysuru ring road (Manipal Hospital),12000,0.0,0.0,0.0,3,0.225
+Model B robust,S1 central,Pandithanahalli (Hotel Nanjundeshwara),12000,0.05,0.0,0.01,2,0.292
+Model B robust,S1 central,Tiptur HP fuel station,8000,0.11,0.0,0.01,2,0.264
+Model B robust,S1 central,Tumakuru HP fuel station,8000,0.3,0.0,0.03,1,0.345
+Model B robust,S9 combined stress,Barandur HP fuel station,8000,5.84,29.94,0.3,1,0.583
+Model B robust,S9 combined stress,Haranahalli HP fuel station,8000,1.23,10.03,0.1,1,0.441
+Model B robust,S9 combined stress,Hiriyur bus stand,8000,4.0,27.87,0.21,1,0.583
+Model B robust,S9 combined stress,Kalkunike HP fuel station,16000,24.65,67.73,0.72,1,1.053
+Model B robust,S9 combined stress,Kalpanahalli HP fuel station,8000,4.05,25.72,0.24,1,0.537
+Model B robust,S9 combined stress,Madikeri destination,4000,0.15,0.0,0.01,1,0.341
+Model B robust,S9 combined stress,Mathikere (Siri Restaurant),24000,0.91,7.39,0.09,2,0.819
+Model B robust,S9 combined stress,Mysuru ring road (Manipal Hospital),24000,0.24,0.0,0.03,3,0.477
+Model B robust,S9 combined stress,Pandithanahalli (Hotel Nanjundeshwara),24000,0.7,5.05,0.07,2,0.692
+Model B robust,S9 combined stress,Tiptur HP fuel station,16000,1.2,10.88,0.1,2,0.576
+Model B robust,S9 combined stress,Tumakuru HP fuel station,16000,3.61,25.57,0.24,1,0.749
